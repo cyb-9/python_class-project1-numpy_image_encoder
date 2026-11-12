@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Temporary and generated files
+tmp/
+output/
+output_tokens.npz
+my_tokens.npz
+
+# Experiment report is submitted separately
+Paper/
+
+# Course supplementary materials
+practice/
+lecture-demos/
+PPT-CODE-MAP.txt
+SOURCE-MANIFEST.json
+
+# Operating-system files
+.DS_Store
+Thumbs.db
